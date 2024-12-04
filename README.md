@@ -11,4 +11,6 @@ This is a taks management system made with the aim of handling tasks in an organ
 
 # RESOURCES 
 -You can access all the API'S Stated in the doucment with the followig URL "[/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)"
-  
+
+# DATABASE
+-Interms of database the application is using H2-Database so every time you run the application you will a have a fresh database to start with.
