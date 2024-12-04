@@ -2,7 +2,7 @@
 This is a taks management system made with the aim of handling tasks in an organization having different roles and managing due tasks.
 
 # Rules
-  -Users : There two types of users "ADMIN" and "USER", only an admin can register other users. When you run the application, two users will be seeded "admin@gmail.com" and "user@gmail.com". and both passwords are "12345". \n
+  -Users : There two types of users "ADMIN" and "USER", only an admin can register other users. When you run the application, two users will be seeded "admin@gmail.com" and "user@gmail.com". and both passwords are "12345". < br / > 
   -Task : There are full CRUD operation for Tasks, an "admin" can do all of them, but "user" can only create and read tasks.
 
 # NOTE
