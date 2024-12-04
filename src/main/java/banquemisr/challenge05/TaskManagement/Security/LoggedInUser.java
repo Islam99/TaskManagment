@@ -1,0 +1,9 @@
+package banquemisr.challenge05.TaskManagement.Security;
+
+import java.lang.annotation.*;
+
+@Target(ElementType.PARAMETER)
+@Retention(RetentionPolicy.RUNTIME)
+@Documented
+public @interface LoggedInUser{
+        }
