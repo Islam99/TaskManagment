@@ -6,7 +6,7 @@ This is a taks management system made with the aim of handling tasks in an organ
   -Task : There are full CRUD operation for Tasks, an "admin" can do all of them, but "user" can only create and read tasks.
 
 # NOTE
--Note that mails notification in order to work you need to register a gmail with an app password and two step verification.
+-Note that mails notification in order to work you need to register a gmail with an app password and two step verification. <br/>
 ![email](https://github.com/user-attachments/assets/61ae6cee-e11d-42e3-ad5c-2dc361d81fcc)
 
 # RESOURCES 
